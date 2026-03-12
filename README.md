@@ -15,7 +15,7 @@ Backend:
 - Express.js
 
 Database:
-- PostgreSQL / MySQL
+- MySQL
 
 ## Features
 
